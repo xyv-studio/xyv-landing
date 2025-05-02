@@ -1,2 +1,2 @@
-# xyv-landing
-Landing page for XYV STUDIO
+# XYV Landing Page
+Updated layout for better spacing and clarity.
